@@ -1,0 +1,181 @@
+--- HỒ SƠ TƯỚNG LIÊN QUÂN MOBILE ---
+
+Tướng: Nakroth
+Vai trò: Sát thủ / Đi rừng.
+Đặc điểm: Cơ động bậc nhất, đẩy lẻ khó chịu.
+Chiêu thức: 
+- Chiêu 1 (Bồi thẩm đoàn): Nhảy tới hất tung, có thể dùng 2 lần.
+- Chiêu 2 (Nguồn cơn rắc rối): Lướt ngược về phía sau, cường hóa đòn đánh thường kế.
+- Chiêu cuối (Gươm hành quyết): Vung đao liên tục gây sát thương và được miễn khống chế.
+Khắc chế: Arum, Aleister (khống chế cứng không thể hóa giải).
+Mẹo: Cần đạt cấp 4 sớm để đi gank, tận dụng độ cơ động để cướp rừng và đẩy đường lén.
+
+Tướng: Điêu Thuyền
+Vai trò: Pháp sư / Đường giữa.
+Đặc điểm: Khống chế liên tục, dồn sát thương diện rộng.
+Chiêu thức: 
+- Chiêu 1 (Sương giá): Gây sát thương và làm chậm.
+- Chiêu 2 (Băng giá): Đóng băng kẻ địch (tích trữ tối đa 2 lần).
+- Chiêu cuối (Bão tuyết): Tạo vùng băng giá lớn gây sát thương liên tục và tăng giáp.
+Khắc chế: Chaugnar (hóa giải khống chế), các tướng cơ động như Nakroth, Murad.
+Mẹo: Luôn phải đóng băng trúng chiêu 2 trước khi dùng chiêu cuối để tối ưu sát thương.
+
+Tướng: Aleister
+Vai trò: Pháp sư / Khống chế.
+Đặc điểm: "Trùm" khống chế cứng, chuyên trị các tướng bay nhảy.
+Chiêu thức: 
+- Chiêu 1 (Vách ngăn hắc ám): Tạo vách ngăn gây choáng.
+- Chiêu 2 (Ma trận thống khổ): Tạo vùng gây sát thương liên tục.
+- Chiêu cuối (Ngục tù vĩnh hằng): Khóa chặt mục tiêu trong 2.5 giây (không thể hóa giải bằng thanh tẩy).
+Khắc chế: Đội hình có sải tay dài như Elsu, Violet để cấu rỉa từ xa trước khi Aleister kịp áp sát.
+Mẹo: Đi cùng trợ thủ có khống chế để chồng thêm hiệu ứng, luôn giữ chiêu cuối cho sát thủ địch.
+
+Tướng: Florentino
+Vai trò: Đấu sĩ / Đường Tà thần.
+Đặc điểm: Kỹ năng cực cao, múa hoa gây sát thương chuẩn và hồi máu liên tục.
+Chiêu thức: 
+- Chiêu 1 (Hào hoa): Ném hoa gây choáng và tạo ra 3 bông hoa dưới đất.
+- Chiêu 2 (Thưởng hoa): Đâm kiếm theo 3 giai đoạn kèm hiệu ứng khác nhau.
+- Chiêu cuối (Tài hoa): Tăng miễn thương, tăng công vật lý và chỉ tập trung vào 1 mục tiêu.
+Khắc chế: Arum, Aleister, hoặc các tướng có khống chế diện rộng như Gildur.
+Mẹo: Phải nhặt hoa để hồi nội năng và reset chiêu 2, yêu cầu tốc độ tay cực nhanh.
+
+Tướng: Elsu
+Vai trò: Xạ thủ.
+Đặc điểm: Tầm bắn cực xa, cấu rỉa máu và kiểm soát tầm nhìn.
+Chiêu thức: 
+- Chiêu 1 (Ưng trạm): Đặt mắt lấy tầm nhìn (tối đa 3 mắt).
+- Chiêu 2 (Viễn trình kích): Ngắm bắn cực xa, gây sát thương cực lớn.
+- Chiêu cuối (Giật bắn): Nhảy lùi về sau và bắn một viên đạn gây sát thương.
+Khắc chế: Max (bay thẳng vào đầu), các sát thủ áp sát nhanh như Zuka, Nakroth.
+Mẹo: Tận dụng nội tại ẩn thân sát vách tường để di chuyển an toàn và ngắm bắn.
+
+Tướng: Aya
+Vai trò: Trợ thủ / Buff.
+Đặc điểm: Leo lên đầu đồng đội, bảo kê cực tốt cho các tướng đấu sĩ "càn lướt".
+Chiêu thức: 
+- Chiêu 1 (Nốt nhạc ánh sáng): Gây sát thương và làm chậm, lộ diện địch.
+- Chiêu 2 (Rừng sâu bảo hộ): Nhảy lên đầu đồng đội tạo giáp ảo.
+- Chiêu cuối (Khúc nhạc rừng sâu): Biến kẻ địch xung quanh thành thú (không thể tung chiêu).
+Khắc chế: Các tướng có sát thương diện rộng lớn hoặc bắt lẻ nhanh khi Aya chưa kịp "nhảy".
+Mẹo: Kết hợp cực tốt với Arthur, Florentino hoặc Nakroth để tạo thành cặp bài trùng khó chịu.
+
+Tướng: Arum
+Vai trò: Trợ thủ / Đỡ đòn.
+Đặc điểm: Khả năng hồi máu từ thú triệu hồi và chiêu cuối "xích" mục tiêu.
+Chiêu thức: 
+- Chiêu cuối (Thú khốn): Khóa chặt kẻ địch, sát thương Arum nhận vào thì kẻ bị khóa cũng nhận bấy nhiêu.
+Khắc chế: Không nên dồn sát thương vào Arum khi cô ấy đang xích đồng đội mình.
+Mẹo: Tận dụng khả năng hồi máu đầu game để ép rừng đối phương.
+
+Tướng: Zuka
+Vai trò: Đấu sĩ / Sát thủ.
+Đặc điểm: Dồn sát thương cực nhanh, độ cơ động cao, chuyên bắt chủ lực địch.
+Chiêu thức: 
+- Chiêu 1 (Loạn đả bổng): Lướt tới gây sát thương (dùng được 2 lần).
+- Chiêu 2 (Phi thân kích): Lộn về phía trước, gây choáng và tạo giáp ảo.
+- Chiêu cuối (Trầm trọng lực): Nhảy lên không trung và nện xuống gây choáng diện rộng.
+Khắc chế: Arum, Aleister, Baldum (bắt giữ khi Zuka lao vào).
+Mẹo: Tận dụng nội tại đánh thường sau mỗi lần dùng chiêu để tối đa sát thương.
+
+Tướng: Dirak
+Vai trò: Pháp sư / Kiểm soát.
+Đặc điểm: Sải tay dài, khả năng chặn luồng đạn và gây khống chế liên tục.
+Chiêu thức: 
+- Chiêu 2 (Thiên hỏa trận): Gây đẩy lùi và choáng từ xa.
+- Chiêu cuối (Lô cốt tử quang): Dựng lá chắn chặn mọi luồng đạn và bắn tia laser cực đại.
+Khắc chế: Sát thủ áp sát nhanh như Nakroth, Zuka hoặc tướng có sát thương chuẩn.
+Mẹo: Dựng chiêu cuối để bảo vệ xạ thủ khỏi các tướng bắn xa như Elsu, Violet.
+
+Tướng: Violet
+Vai trò: Xạ thủ.
+Đặc điểm: Cấu rỉa tầm xa cực mạnh nhờ chiêu 1 lộn bắn.
+Chiêu thức: 
+- Chiêu 1 (Đạn xuyên thấu): Nguồn sát thương chính, giúp tăng tầm bắn và cường hóa đòn đánh thường kế.
+Khắc chế: Tướng có khả năng áp sát bất ngờ hoặc phản sát thương như Wonder Woman, Richter.
+Mẹo: Luôn lộn ngang hoặc lùi về sau để giữ vị trí an toàn khi cấu rỉa.
+
+Tướng: Triệu Vân
+Vai trò: Đấu sĩ / Sát thủ.
+Đặc điểm: Càng về cuối trận càng mạnh nhờ nội tại tích điểm công vật lý khi có mạng hạ gục/hỗ trợ.
+Chiêu thức: 
+- Chiêu 1 (Long huyết): Giúp giải khống chế và tăng tốc chạy. 
+- Chiêu cuối (Long kích): Gây sát thương chuẩn lên mục tiêu.
+Khắc chế: Các tướng thả diều tốt (Elsu, Hayate) hoặc khống chế cứng.
+Mẹo: Sử dụng chiêu 1 đúng thời điểm để out-play các kỹ năng khống chế của địch.
+
+Tướng: Dolia
+Vai trò: Trợ thủ / Hỗ trợ đặc biệt.
+Đặc điểm: Khả năng hồi chiêu cuối ngay lập tức cho đồng đội.
+Chiêu thức: 
+- Chiêu cuối (Lời thề biển cả): Làm mới hồi chiêu cuối của đồng đội gần nhất.
+Khắc chế: Các tướng có khả năng chia cắt đội hình để Dolia không gần được chủ lực.
+Mẹo: Kết hợp cực mạnh với các tướng có chiêu cuối đột biến như Omen, Maloch, hoặc Aleister.
+
+Tướng: Gildur
+Vai trò: Đỡ đòn / Pháp sư hỗ trợ.
+Đặc điểm: Khống chế tầm xa và khống chế cứng diện rộng.
+Chiêu thức: 
+- Chiêu 2 (Vàng rơi): Cấu rỉa và gây choáng từ khoảng cách xa. 
+- Chiêu cuối (Vương quốc vàng): Bất động mọi kẻ địch trong vùng ảnh hưởng.
+Khắc chế: Chaugnar (khắc tinh lớn nhất), trang bị Đại địa mở trói.
+Mẹo: Tận dụng chiêu 2 để check bụi và cấu máu trước khi mở giao tranh bằng chiêu cuối.
+
+Tướng: Toro
+Vai trò: Đỡ đòn / Trợ thủ.
+Đặc điểm: Lỳ lợm nhất game, miễn khống chế khi đang tung chiêu thức.
+Chiêu thức: 
+- Chiêu cuối (大地 chấn): Dậm đất 3 lần gây chậm và hất tung diện rộng.
+Khắc chế: Các tướng gây sát thương theo phần trăm máu như Hayate, Slimz.
+Mẹo: Chủ động lao vào giữa đội hình địch để thu hút chiêu thức vì Toro rất khó bị khống chế.
+
+Tướng: Butterfly
+Vai trò: Sát thủ.
+Đặc điểm: Khả năng hồi chiêu ngay lập tức khi tham gia hạ gục, tạo chuỗi hạ gục liên tục.
+Chiêu thức: 
+- Chiêu cuối (Ám sát): Áp sát mục tiêu có lượng máu thấp nhất.
+Khắc chế: Đồ thủ (Giáp thống khổ), khống chế cứng, đi chung đội hình để chia sát thương.
+Mẹo: Đợi đối phương tung hết chiêu khống chế rồi mới lao vào để "vét" giao tranh.
+
+Tướng: Hayate
+Vai trò: Xạ thủ / Cơ động.
+Đặc điểm: Gây sát thương chuẩn lên cả công trình và tướng, cực mạnh khi đối đầu tanker.
+Chiêu thức: 
+- Chiêu 1 (Chuỗi phi tiêu): Gây sát thương liên tục theo đường thẳng. 
+- Chiêu cuối (Bão phi tiêu): Lướt vào vùng chỉ định và bắn phi tiêu diện rộng.
+Khắc chế: Các tướng có khống chế tức thời hoặc xạ thủ sải tay dài hơn (Elsu, Violet).
+Mẹo: Tận dụng chiêu 2 để check nội tại (có địch gần đó hay không) nhằm tránh bị bắt lẻ.
+
+Tướng: Valhein
+Vai trò: Xạ thủ.
+Đặc điểm: Thả diều và gây choáng liên tục nhờ nội tại ám khí.
+Chiêu thức: 
+- Chiêu 2 (Lời nguyền tử vong): Gây choáng mục tiêu chọn sẵn.
+Khắc chế: Các tướng có tầm chiêu xa hơn hoặc sát thủ dồn combo nhanh không cho Valhein thả diều.
+Mẹo: Giữ khoảng cách tốt để liên tục tung các ám khí màu vàng gây choáng đối thủ.
+
+Tướng: Grakk
+Vai trò: Trợ thủ / Đỡ đòn.
+Đặc điểm: Đột biến cực cao với cú kéo tạo nên thương hiệu.
+Chiêu thức: 
+- Chiêu 2 (Xích ma quái): Kéo mục tiêu về phía bản thân. 
+- Chiêu cuối (Nuốt chửng): Hút và giữ mục tiêu trong vùng ảnh hưởng.
+Khắc chế: Chaugnar, các tướng đỡ đòn chủ động đứng cao để đỡ cú kéo cho chủ lực.
+Mẹo: Nấp bụi để tung cú kéo bất ngờ khiến kẻ địch không kịp phản ứng.
+
+Tướng: Maloch
+Vai trò: Đấu sĩ / Đỡ đòn.
+Đặc điểm: Sát thương chuẩn diện rộng, cực mạnh trong các pha giao tranh tổng đông người.
+Chiêu thức: 
+- Chiêu 1 (Quỷ vương trảm): Gây sát thương chuẩn nếu kiếm được cường hóa. 
+- Chiêu cuối (Luyện ngục): Nhảy vào vùng chỉ định hất tung diện rộng.
+Khắc chế: Tướng cơ động né được cú nhảy hoặc tướng bắn xa cấu rỉa máu.
+Mẹo: Cố gắng chém chiêu 1 trúng tướng địch để kích hoạt trạng thái Ma vương gây sát thương chuẩn.
+
+Tướng: Tel'Annas
+Vai trò: Xạ thủ.
+Đặc điểm: Tầm bắn xa bậc nhất khi kích hoạt chiêu 1, gây sát thương hỗn hợp.
+Chiêu thức: 
+- Chiêu 1 (Ưng nhãn): Tăng tầm bắn và tốc đánh, đòn đánh gây thêm sát thương.
+Khắc chế: Sát thủ áp sát nhanh (Nakroth, Zuka) vì Tel'Annas không có chiêu lướt cơ động.
+Mẹo: Luôn đi cùng trợ thủ bảo kê và bật chiêu 1 để đứng ngoài tầm sát thương của địch mà bắn.
