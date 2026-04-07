@@ -1,4 +1,5 @@
 import os
+import json
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import google.generativeai as genai
@@ -26,8 +27,9 @@ class ChatRequest(BaseModel):
 # 3. Hàm đọc dữ liệu "Domain-Specific" từ file txt
 def load_knowledge():
     try:
-        with open("data-character.txt", "r", encoding="utf-8") as f:
-            return f.read()
+        with open("data-character.json", "r", encoding="utf-8") as f:
+            data = json.load(f)
+            return json.dumps(data, ensure_ascii=False, indent=2)
     except Exception as e:
         print(f"Lỗi đọc file: {e}")
         return ""
